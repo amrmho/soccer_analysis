@@ -1,2 +1,3 @@
 # soccer_analysis
-Analyzing goal trends
+## About the Project
+###### Analyzing goal trends
